@@ -1,0 +1,3 @@
+This will checkout new branch pointing to the desired commit.
+This command will checkout to a given commit.
+At this point, you can create a branch and start to work from this point on.
